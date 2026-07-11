@@ -1,0 +1,19 @@
+# Executables
+carGame
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+
+# IDE
+.vscode/
+.idea/
+
+# Build directories
+build/
+bin/
